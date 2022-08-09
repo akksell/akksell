@@ -17,6 +17,8 @@
 </p>
 
 <h3 align="center">Dev Statistics</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3 align="center">Social Links</h3>
 <p align="center">
