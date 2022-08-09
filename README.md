@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Axel :desktop_computer:</h1>
+<h1 align="center">Hi, I'm Axel</h1>
+<p align="center">
+  <a href="https://axelramone.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+</p>
 <p align="center">
   <samp>
     Thanks for visiting my profile! I'm Axel, a 20 Year old CS student at Texas A&M University. I work primarily with frontend web development, creating react projects but I'm beginning to learn backend development with MongoDB. Previously, I've worked as a frontend developer for Southwest Solutions Group where I collaborated with a team to create an internal social media for the HR department. The project used an ASP.NET MVC in conjuction with AngularJS to serve data to the view. Feel free to reach out to any of my social links or through email at contact@axelramone.com!
