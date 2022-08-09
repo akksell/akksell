@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <samp>
-    Thanks for visiting my profile! I'm Axel, a 20 Year old CS student at Texas A&M University. I work primarily with frontend web development, creating react projects but I'm beginning to learn backend development with MongoDB. Previously, I've worked as a frontend developer for Southwest Solutions Group where I collaborated with a team to create an internal social media for the HR department. The project used an ASP.NET MVC in conjuction with AngularJS to serve data to the view. Feel free to reach out to any of my social links or through email at contact@axelramone.com!
+    Thanks for visiting my profile! I'm Axel, a 20 Year old CS student at Texas A&M University. I work primarily with frontend web development but I'm beginning to learn fullstack development with MongoDB and strengthening my skills using frameworks like React. Previously, I've worked as a frontend developer for Southwest Solutions Group where I collaborated with a team to create an internal social media for the HR department. If you have any questions or want to contact me, feel free to reach out to any of my socials or email me at contact@axelramone.com!
   </samp>
 </p>
 
