@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Axel</h1>
+<h1 align="center">Hi, I'm Axel :wave:</h1>
 <p align="center">
   <a href="https://axelramone.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </p>
