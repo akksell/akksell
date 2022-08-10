@@ -22,6 +22,11 @@
 
 <h3 align="center">Dev Statistics</h3>
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="center">Social Links</h3>
