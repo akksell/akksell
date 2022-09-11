@@ -24,10 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 45 mins
+Total Time: 10 hrs 49 mins
 
-HTML   6 hrs 55 mins   ███████████████████▓░░░░░   79.00 %
-CSS    1 hr 50 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+HTML       6 hrs 55 mins   ████████████████░░░░░░░░░   63.90 %
+C++        2 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+CSS        1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
