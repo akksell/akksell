@@ -24,13 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 4 mins
+Total Time: 8 hrs 13 mins
 
-C++          2 hrs 37 mins   █████████████░░░░░░░░░░░░   51.94 %
-Markdown     1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
-JSON         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Git Config   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+C++          3 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   42.32 %
+Markdown     1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+Other        52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
 ```
 
 <!--END_SECTION:waka-->
