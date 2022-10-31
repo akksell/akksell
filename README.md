@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 14 hrs 59 mins
+Total Time: 16 hrs 32 mins
 
-C++          10 hrs 13 mins  █████████████████░░░░░░░░   68.23 %
-Markdown     1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Other        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+C++          11 hrs 42 mins  █████████████████▓░░░░░░░   70.81 %
+Markdown     1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Other        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
