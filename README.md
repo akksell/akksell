@@ -24,11 +24,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 18 hrs 28 mins
+Total Time: 16 hrs 3 mins
 
-C++          14 hrs 38 mins  ███████████████████▓░░░░░   79.20 %
-JavaScript   1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Other        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+C++          13 hrs 58 mins  █████████████████████▓░░░   87.03 %
+JavaScript   1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Bash         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+EJS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Makefile     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
