@@ -24,12 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 59 mins
+Total Time: 18 mins
 
-JavaScript   1 hr 25 mins    ████████████░░░░░░░░░░░░░   47.84 %
-C++          1 hr 23 mins    ███████████▓░░░░░░░░░░░░░   46.63 %
-Scilab       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+CSS          9 mins          ████████████▓░░░░░░░░░░░░   51.11 %
+JavaScript   8 mins          ████████████▒░░░░░░░░░░░░   48.89 %
 ```
 
 <!--END_SECTION:waka-->
