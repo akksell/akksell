@@ -23,10 +23,14 @@
 <h3 align="center">Dev Statistics</h3>
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 0 secs
+```txt
+Total Time: 13 hrs 42 mins
 
-No activity tracked
+TypeScript   11 hrs 6 mins   ████████████████████▒░░░░   81.03 %
+JavaScript   45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+JSON         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+YAML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
