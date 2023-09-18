@@ -24,9 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 3 hrs 2 mins
 
-No activity tracked
+Python   3 hrs 1 min     █████████████████████████   99.60 %
+Prolog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
