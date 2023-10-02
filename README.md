@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 48 mins
+Total Time: 5 hrs 51 mins
 
-TypeScript   7 hrs 55 mins   ██████████████▒░░░░░░░░░░   57.36 %
-Python       5 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   36.58 %
-Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Ezhil        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Python       5 hrs 2 mins    █████████████████████▓░░░   86.12 %
+TypeScript   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Markdown     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Makefile     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+GDScript3    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
