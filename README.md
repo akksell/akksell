@@ -24,11 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 42 mins
+Total Time: 35 mins
 
-Python      2 hrs 37 mins   ████████████████████████░   96.63 %
-Makefile    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-GDScript3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python      26 mins         ██████████████████▓░░░░░░   75.08 %
+Makefile    4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+SQL         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+GDScript3   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Markdown    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
