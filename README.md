@@ -24,13 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 43 mins
+Total Time: 2 mins
 
-Python      38 mins         ██████████████████████░░░   88.02 %
-Java        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-C           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-SQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
