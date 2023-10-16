@@ -24,9 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 mins
+Total Time: 3 hrs 50 mins
 
-Java   2 mins          █████████████████████████   100.00 %
+PHP             1 hr 36 mins    ██████████▓░░░░░░░░░░░░░░   42.00 %
+YAML            1 hr 5 mins     ███████░░░░░░░░░░░░░░░░░░   28.49 %
+Markdown        39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+Docker          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Ezhil           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
