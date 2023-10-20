@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 42 mins
+Total Time: 6 hrs 21 mins
 
-PHP             2 hrs 7 mins    █████████▒░░░░░░░░░░░░░░░   37.08 %
-YAML            1 hr 31 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
-Markdown        48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Docker          40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-Brainfuck       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+PHP             2 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   34.11 %
+YAML            1 hr 36 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
+Markdown        1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
+Docker          47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Brainfuck       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
