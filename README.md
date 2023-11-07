@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 36 mins
+Total Time: 4 hrs 19 mins
 
-C               3 hrs 52 mins   █████████████████████░░░░   84.22 %
-Python          16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Other           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Apache Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Docker          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+C               3 hrs 52 mins   ██████████████████████▒░░   89.65 %
+Other           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Apache Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Docker          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Bash            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
