@@ -24,13 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 12 mins
+Total Time: 0 secs
 
-C               45 mins         ███████████████▓░░░░░░░░░   62.98 %
-Other           13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-Apache Config   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-Docker          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Bash            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
