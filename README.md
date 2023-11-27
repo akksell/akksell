@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 10 mins
+Total Time: 7 hrs 25 mins
 
-C            3 hrs 10 mins   ███████████░░░░░░░░░░░░░░   44.24 %
-Python       2 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.41 %
-Makefile     1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+PHP          4 hrs 16 mins   ██████████████▒░░░░░░░░░░   57.57 %
+Python       2 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+Makefile     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
