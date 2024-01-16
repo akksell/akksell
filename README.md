@@ -24,9 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 35 mins
 
-No activity tracked
+JSON         18 mins         █████████████░░░░░░░░░░░░   52.40 %
+Git Config   8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+Python       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Other        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Markdown     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
