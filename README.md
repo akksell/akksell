@@ -24,13 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 mins
+Total Time: 9 mins
 
-Other        13 mins         ████████████▒░░░░░░░░░░░░   48.83 %
-JSON         6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
-Git Config   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Python       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-SSH Config   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Other        7 mins          █████████████████████░░░░   83.80 %
+SSH Config   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
 ```
 
 <!--END_SECTION:waka-->
