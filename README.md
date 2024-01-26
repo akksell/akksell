@@ -24,10 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 mins
+Total Time: 21 mins
 
-Other        7 mins          █████████████████████░░░░   83.80 %
-SSH Config   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+C++               8 mins          ██████████░░░░░░░░░░░░░░░   40.32 %
+Other             7 mins          █████████░░░░░░░░░░░░░░░░   36.57 %
+Protocol Buffer   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+SSH Config        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
 ```
 
 <!--END_SECTION:waka-->
