@@ -24,10 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 mins
+Total Time: 0 secs
 
-C++               8 mins          ██████████████████░░░░░░░   71.53 %
-Protocol Buffer   3 mins          ███████░░░░░░░░░░░░░░░░░░   28.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
