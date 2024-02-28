@@ -24,9 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 8 mins
 
-No activity tracked
+Makefile          4 mins          █████████████▓░░░░░░░░░░░   54.24 %
+C++               3 mins          ███████████▒░░░░░░░░░░░░░   44.90 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
